@@ -4,3 +4,18 @@
 ```bash
 dotnet run
 ```
+
+### Build the project
+```bash
+dotnet build
+```
+
+### Install nuget packages
+```bash
+dotnet restore
+```
+
+### Run the tests
+```bash
+dotnet test
+```
